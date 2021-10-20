@@ -1,0 +1,20 @@
+{
+  "name": "ACTIVITY2",
+  "version": "1.0.0",
+  "main": "Automation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.14",
+    "async-captcha": "^1.0.4",
+    "minimist": "^1.2.5",
+    "puppeteer": "^10.4.0",
+    "puppeteer-core": "^10.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
